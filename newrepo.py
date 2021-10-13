@@ -1,3 +1,4 @@
-l=list(map(int,input().split())
+l = []
+l = list(map(int, input().split(',')))
 for i in l:
- print(i)
+    print(i)
